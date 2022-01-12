@@ -1,5 +1,7 @@
 
-  background-repeat: repeat-y;background-position:50% 40px;
+  body{background-color:tan;
+  color: black;}
+body{background-image:url("plaatjes/downloaden kida.jpg");background-repeat: repeat-y;background-position:50% 40px;
   background-attachment: fixed;margin: 50px; border: 50px; padding: 50px}
 table.personen {border: 10px solid black;
   }
