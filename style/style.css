@@ -1,40 +1,41 @@
 
- body{ background-repeat: repeat-y;background-position:50% 40px;background-image:url(![image](https://user-images.githubusercontent.com/95365238/145229571-71c48ebe-3604-4752-ad3b-a050f081262f.png));
-  background-attachment: fixed;margin: 50px; border: 50px; padding: 50px}
-table.personen {border: 10px solid black;
+ body{ background-color:brown;background-image:url(https://user-images.githubusercontent.com/95365238/145229729-1bde8b43-2b08-46f9-a035-9a2eff9e8b0a.jpg);
+  color: red;font-size:25px;
+background-repeat: no repeat;background-position:50% 100px;
+  background-attachment: fixed;margin: 50px; border: 100px; padding: 100px}
+table.personen {border: 10px solid blue;
   }
-table.personen th {border: 10px solid red;}
+table.personen th {border: 10px solid yellow;}
 table.personen td {
-    border: 10px solid green;}
+    border: 10px solid white;}
 img{margin-left: auto;margin-right: auto;}
 li,p,h1,h2,h3{color:  rgb(0,50,153);
-background-color:#F8F8FF; margin-left: 4%; margin-right: 6%}
+background-color:#F8F8FF; margin-left: 6%; margin-right: 6%}
 h1 {background-color:black;
 color:aqua;
-text-align: right;
+text-align: centre;
 font-family: Georgia;
 font-style: italic;
-font-weight: normal; border: 4px solid green;}
+font-weight: normal; border: 10px solid green;}
 h2{text-align: center;
-font-family: Courier;border: 4px solid orange;}
+font-family: Courier;border: 10px solid orange;}
 h3{{text-align: justify;
 font-family: Verdana;
-font-size: 12px;
-font-variant: small-caps;border: 4px solid yellow}
+font-size: 100px;
+font-variant: small-caps;border: 10px solid yellow}
 p{border: 400px solid orange;}
-tr{background-color: gold;
-color:red;
+tr{background-color: blue;
+color:yellow;
 }
-ul.voordelen{list-style: inside circle;; border: 1px solid blue;}
-ul.voordelen li{border: 1px solid blue}
-table, td, tr{border: 20px red}
-img{background-color:black;
-color: green}
+ul.voordelen{list-style: inside circle;; border: 10px solid blue;}
+ul.voordelen li{border: 10px solid blue}
+table, td, tr{border: 100px green}
+img{background-color:purpel;
+color: indigo}
 body
-.class{color: red; text-align: justify;}
-.antwoord{color: yellow; text-align: center;}
-p#uitleg{font-size: 100px; font-weight: bold;font-style: italic;;}
-p:hover{font-size: 60px=; font-style: italic;}
+p:hover{font-size: 100px=; font-style: italic;}
 p a:visited{color: green}
 a:link{color: yellow}
 ul a{text-decoration: line-through;}
+
+
