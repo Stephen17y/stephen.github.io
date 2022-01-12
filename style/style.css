@@ -1,7 +1,7 @@
 
   body{background-color:tan;
   color: black;}
-body{background-image:url("![download](https://user-images.githubusercontent.com/95365238/145229729-1bde8b43-2b08-46f9-a035-9a2eff9e8b0a.jpg)");background-repeat: repeat-y;background-position:50% 40px;
+body{background-image:url("plaatjes/https://user-images.githubusercontent.com/95365238/145229729-1bde8b43-2b08-46f9-a035-9a2eff9e8b0a.jpg");background-repeat: repeat-y;background-position:50% 40px;
   background-attachment: fixed;margin: 50px; border: 50px; padding: 50px}
 table.personen {border: 10px solid black;
   }
